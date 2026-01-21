@@ -1,0 +1,23 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto | SRR8668774	/Users/andyju/Desktop/course_dataset/kallisto/CL13.log
+Kallisto	all_sections	kallisto | SRR8668773	/Users/andyju/Desktop/course_dataset/kallisto/CL12.log
+Kallisto	all_sections	kallisto | SRR8668771	/Users/andyju/Desktop/course_dataset/kallisto/CL10.log
+Kallisto	all_sections	kallisto | SRR8668772	/Users/andyju/Desktop/course_dataset/kallisto/CL11.log
+Kallisto	all_sections	kallisto | SRR8668757	/Users/andyju/Desktop/course_dataset/kallisto/HS03.log
+Kallisto	all_sections	kallisto | SRR8668756	/Users/andyju/Desktop/course_dataset/kallisto/HS02.log
+Kallisto	all_sections	kallisto | SRR8668755	/Users/andyju/Desktop/course_dataset/kallisto/HS01.log
+Kallisto	all_sections	kallisto | SRR8668759	/Users/andyju/Desktop/course_dataset/kallisto/HS05.log
+Kallisto	all_sections	kallisto | SRR8668769	/Users/andyju/Desktop/course_dataset/kallisto/CL08.log
+Kallisto	all_sections	kallisto | SRR8668758	/Users/andyju/Desktop/course_dataset/kallisto/HS04.log
+Kallisto	all_sections	kallisto | HS01 subsample | SRR8668755_1M_subsample	/Users/andyju/Desktop/course_dataset/kallisto/HS01 subsample/test.log
+FastQC	all_sections	fastqc | CL08 | SRR8668769	/Users/andyju/Desktop/course_dataset/fastqc/CL08/SRR8668769_fastqc.zip
+FastQC	all_sections	fastqc | HS01 | SRR8668755	/Users/andyju/Desktop/course_dataset/fastqc/HS01/SRR8668755_fastqc.zip
+FastQC	all_sections	fastqc | HS01 subsample | SRR8668755_1M_subsample	/Users/andyju/Desktop/course_dataset/fastqc/HS01 subsample/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc | CL13 | SRR8668774	/Users/andyju/Desktop/course_dataset/fastqc/CL13/SRR8668774_fastqc.zip
+FastQC	all_sections	fastqc | CL12 | SRR8668773	/Users/andyju/Desktop/course_dataset/fastqc/CL12/SRR8668773_fastqc.zip
+FastQC	all_sections	fastqc | HS02 | SRR8668756	/Users/andyju/Desktop/course_dataset/fastqc/HS02/SRR8668756_fastqc.zip
+FastQC	all_sections	fastqc | HS05 | SRR8668759	/Users/andyju/Desktop/course_dataset/fastqc/HS05/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc | HS04 | SRR8668758	/Users/andyju/Desktop/course_dataset/fastqc/HS04/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | HS03 | SRR8668757	/Users/andyju/Desktop/course_dataset/fastqc/HS03/SRR8668757_fastqc.zip
+FastQC	all_sections	fastqc | CL10 | SRR8668771	/Users/andyju/Desktop/course_dataset/fastqc/CL10/SRR8668771_fastqc.zip
+FastQC	all_sections	fastqc | CL11 | SRR8668772	/Users/andyju/Desktop/course_dataset/fastqc/CL11/SRR8668772_fastqc.zip

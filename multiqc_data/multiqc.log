@@ -1,0 +1,23 @@
+[2026-01-20 20:47:23,612] multiqc                                            [DEBUG  ]  This is MultiQC v1.17
+[2026-01-20 20:47:23,612] multiqc                                            [DEBUG  ]  Command used: /Users/andyju/miniconda/envs/rnaseq/bin/multiqc -d .
+[2026-01-20 20:47:24,246] multiqc                                            [DEBUG  ]  Could not connect to multiqc.info for version check: module 'packaging.version' has no attribute 'StrictVersion'
+[2026-01-20 20:47:24,246] multiqc                                            [DEBUG  ]  Working dir : /Users/andyju/Desktop/course_dataset
+[2026-01-20 20:47:24,247] multiqc                                            [DEBUG  ]  Template    : default
+[2026-01-20 20:47:24,247] multiqc                                            [DEBUG  ]  Running Python 3.8.20 | packaged by conda-forge | (default, Sep 30 2024, 17:47:09)  [Clang 15.0.7 ]
+[2026-01-20 20:47:24,247] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2026-01-20 20:47:24,248] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2026-01-20 20:47:24,248] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/x7/643hb9856dzg6wg9pqnv46_w0000gn/T/tmp0wfpov_a
+[2026-01-20 20:47:24,251] multiqc                                            [INFO   ]  Search path : /Users/andyju/Desktop/course_dataset
+[2026-01-20 20:47:24,619] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_file_contents_search_errors: 957] // [skipped_module_specific_max_filesize: 454] // [skipped_no_match: 62] // [skipped_ignore_pattern: 15] // [skipped_filesize_limit: 1]
+[2026-01-20 20:47:32,364] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.7.3
+[2026-01-20 20:47:32,364] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.7.3
+[2026-01-20 20:47:32,365] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2026-01-20 20:47:32,367] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 11 reports
+[2026-01-20 20:47:32,392] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 11 reports
+[2026-01-20 20:47:32,432] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2026-01-20 20:47:32,442] multiqc                                            [DEBUG  ]  Compressing plot data
+[2026-01-20 20:47:32,634] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2026-01-20 20:47:32,635] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2026-01-20 20:47:32,635] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/x7/643hb9856dzg6wg9pqnv46_w0000gn/T/tmp0wfpov_a/multiqc_data' to '/Users/andyju/Desktop/course_dataset/multiqc_data'
+[2026-01-20 20:47:32,636] multiqc                                            [DEBUG  ]  Full report path: /Users/andyju/Desktop/course_dataset/multiqc_report.html
+[2026-01-20 20:47:32,704] multiqc                                            [INFO   ]  MultiQC complete
